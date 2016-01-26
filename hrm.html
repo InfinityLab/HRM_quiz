@@ -18,30 +18,30 @@
     <div ng-show="Question">
       {{Question}}
       <br>
-        <form name="Choice">
+        <form name="Choice" >
           <label>
-            <input type="radio" ng-model="Answer" value="A">
+            <input type="radio" ng-disabled="Answer" ng-change="ans('A')" ng-model="Answer" value="A">
             A {{A}}
           </label><br/>
           <label>
-            <input type="radio" ng-model="Answer" value="B">
+            <input type="radio" ng-disabled="Answer" ng-change="ans('B')" ng-model="Answer" value="B">
             B {{B}}
           </label><br/>
           <label>
-            <input type="radio" ng-model="Answer" value="C">
+            <input type="radio" ng-disabled="Answer" ng-change="ans('C')" ng-model="Answer" value="C">
             C {{C}}
           </label><br/>
           <label>
-            <input type="radio" ng-model="Answer" value="D">
+            <input type="radio" ng-disabled="Answer" ng-change="ans('D')" ng-model="Answer" value="D">
             D {{D}}
           </label><br/>
           <label>
-            <input type="radio" ng-model="Answer" value="E">
+            <input type="radio" ng-disabled="Answer" ng-change="ans('E')" ng-model="Answer" value="E">
             E {{E}}
           </label>
         </form>
     </div>
-    <h4 ng-show="Answer">Your answer is {{Answer}}, correct answer is {{correct}}
+    <h4 ng-show="Answer">Your answer is {{Answer}}, correct answer is {{correct}}, {{feedback}}
      <button ng-click="NextQuestion()" >
       Next Question
     </button>
