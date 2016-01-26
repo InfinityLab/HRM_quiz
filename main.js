@@ -6,6 +6,9 @@
         $scope.chapters = [{
             "id": 1,
             "selected":true
+        },{
+        	"id": 2,
+        	"selected":false
         }];
 
         $scope.NextQuestion = function(){
@@ -30,9 +33,9 @@
 
   		$scope.ans = function(answer){
   			if (Q["Ans"] === answer){
-  				$scope.feedback = "correct"
+  				$scope.feedback = "CORRECT"
   			}else{
-  				$scope.feedback = "you are wrong"
+  				$scope.feedback = "WRONG"
   			}
   		}
 
@@ -545,7 +548,7 @@
 	  				"Ans":"B"
 	  			},
 	  			{
-	  				"Q":"You havebeen tasked with building employeeengagement at thefirm you work for. Strategic human resources initiatives you would consider implementing include:",
+	  				"Q":"You havebeen tasked with building employee engagement at thefirm you work for. Strategic human resources initiatives you would consider implementing include:",
 	  				"A":"employee relations activity",
 	  				"B":"employee recognition programs",
 	  				"C":"job design indicators",
@@ -581,7 +584,7 @@
 	  				"Ans":"B"
 	  			},
 	  			{
-	  				"Q":"Management can loseitsauthority and power by empowering itsemployees",
+	  				"Q":"Management can lose its authority and power by empowering itsemployees",
 	  				"A":"True",
 	  				"B":"False",
 	  				"C":"",
@@ -626,7 +629,7 @@
 	  				"Ans":"A"
 	  			},
 	  			{
-	  				"Q":"Asan HRprofessional in today'sorganizations, you need to beconcerned with ethical issuessuch as security of information, employee and client privacy, governance and conflicts of interest.",
+	  				"Q":"Asan HR professional in today'sorganizations, you need to beconcerned with ethical issuessuch as security of information, employee and client privacy, governance and conflicts of interest.",
 	  				"A":"True",
 	  				"B":"False",
 	  				"C":"",
@@ -635,7 +638,7 @@
 	  				"Ans":"A"
 	  			},
 	  			{
-	  				"Q":"An HR professional can build employeeengagement by coachinglinemanagerstobuild trusting relationshipswith their employees, establishing recognition programsand providing management development programs.",
+	  				"Q":"An HR professional can build employee engagement by coaching line managers to build trusting relation ships with their employees, establishing recognition programsand providing management development programs.",
 	  				"A":"True",
 	  				"B":"False",
 	  				"C":"",
@@ -652,8 +655,344 @@
 	  				"E":"",
 	  				"Ans":"A"
 	  			}
-	  		]
+	  		],
+	  		//Chapter 2
+	  		[
+	  			{
+	  				"Q":"Diversity training programs",
+	  				"A":"are designed toprovideawarenessof diversity issues.",
+	  				"B":"should not beon-going.",
+	  				"C":"try to educate employees about specific cultural differences.",
+	  				"D":"try to educate employees about specific gender and cultural differences and are designed to provide awareness of diversity issues.",
+	  				"E":"try to educate employees about specific gender and cultural differences",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Human rights legislation:",
+	  				"A":"iscritically important toHRspecialists,but hasarelatively insignificant impact on supervisors and managers throughout the firm.",
+	  				"B":"is quite limited in scope.",
+	  				"C":"prohibits intentional discrimination only",
+	  				"D":"affects every employer in Canada",
+	  				"E":"primarily affects compensation and selection",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Steps in the employment equity process typically include:",
+	  				"A":"obtaining senior- management commitment and support; data collection and analysis;employment systemsreview; plan development; implementation; and monitoring.",
+	  	 			"B":"obtaining senior- management commitment and support; data collection; employment systems review; training; and follow- up.",
+	  				"C":"obtaining senior- management commitment and support; employment systemsreview; diversity training; and systems review",
+	  				"D":"obtaining senior- management commitment and support; employment systemsreview; implementation; and follow up.",
+	  				"E":"obtaining senior- management commitment and support; data collection and analysis; employment systemsreview; and diversity training.",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Which of the following statements is accurate about reasonable accommodation?",
+	  				"A":"Employers are not expected to adjust employment policies and practices if discrimination is",
+	  				"B":"An employer is only required to accommodate in the case of discrimination on the basis of",
+	  				"C":"Accommodation short of thepoint of unduehardship totheemployer isacceptablein certain circumstances.",
+	  				"D":"Employers are not expected to adjust work schedules to accommodate religious beliefs.",
+	  				"E":"Employers are expected to redesign a work station to enable an individual with a physical disability to do a job.",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"The comparison of an employer'sinternal work force profile with external work force availability data is known as",
+	  				"A":"an employment systems review",
+	  				"B":"stock data",
+	  				"C":"a transactional analysis",
+	  				"D":"flow data",
+	  				"E":"a utilization analysis",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"Guidelines for implementing a harassment policy do not include:",
+	  				"A":"requiring each employee to sign a document indicating that he or she has received harassment training.",
+	  				"B":"ensuring that a copy of the charge is placed in the file of the alleged harasser",
+	  				"C":"developing apolicy that prohibits harassment on all groundslisted in theCanadian Human Rights Act",
+	  				"D":"applying harsh discipline without aproper investigation",
+	  				"E":"all of the above",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Diversity initiatives",
+	  				"A":"should beundertaken quickly.",
+	  				"B":"should be undertaken quickly and involve a complex change process.",
+	  				"C":"involve a complex change process.",
+	  				"D":"never involve overcoming resistance to prejudices.",
+	  				"E":"usually do not involve overcoming resistance to change.",
+	  				"Ans":"C"
+	  			},
+	  			{
+	  				"Q":"Which of the following coversthejoint responsibility shared by workersand employersto maintain a hazard-free environment and to enhance the health and safety of workers?",
+	  				"A":"safety and WHMIS legislation",
+	  				"B":"employment/labour standards legislation",
+	  				"C":"employment equity legislation",
+	  				"D":"occupational health and safety legislation",
+	  				"E":"human rightslegislation",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Which of the following statements are accurate?",
+	  				"A":"Accommodating work schedules around religious holidays is generally not required by human rights legislation",
+	  				"B":"Accommodating the needs of an employee with depression to thepoint of unduehardship is not required in certain Canadian jurisdictions.",
+	  				"C":"Imposing rigid physical standards for certain jobs is not systemic discrimination.",
+	  				"D":"Organizations must be able to show that any physical standards used for selecting employees for a particular job are truly necessary.",
+	  				"E":"It is not legally permissible to refuse to hire a blind person to drive a truck.",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"For an employment equity program to be successful:",
+	  				"A":"senior management should be responsible for the implementation process.",
+	  				"B":"a senior oficial should be appointed with the authority to discipline those failing to comply",
+	  				"C":"an employment equity policy statement should befiled in thecompany's HR policies and procedures manual.",
+	  				"D":"a written policy endorsed by senior management and posted throughout the organization or distributed to every employee, is an essential first step.",
+	  				"E":"an employment equity committee should be given ultimate authority.",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"A tuition reimbursement program is an example of:",
+	  				"A":"an employment equity policy.",
+	  				"B":"an employment equity timetable",
+	  				"C":"a supportive measure.",
+	  				"D":"a positive measure",
+	  				"E":"an accommodation measure",
+	  				"Ans":"C"
+	  			},
+	  			{
+	  				"Q":"Which of the following statements regarding people with disabilities is true?",
+	  				"A":"The representation of persons with disabilities in the federal public sector increased to 5.7% in 2004.",
+	  				"B":"Of all the designated groups, people with disabilities in the private sector have benefited least from the Employment Equity Act.",
+	  				"C":"People with disabilities make up only 2.5% of the federal private sector workforce.",
+	  				"D":"Themedian employment income of personswith disabilitiesis 83% of that of other Canadian workers.",
+	  				"E":"People with disabilities still fall short of their estimated labour market availability.",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"A supervisor informing an employee that refusal to grant sexual favours will result in a poor performance rating is an example of:",
+	  				"A":"sexual annoyance",
+	  				"B":"executive privilege",
+	  				"C":"a job related annoyance",
+	  				"D":"a BFOR",
+	  				"E":"sexual coercion.",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"A company in the manufacturing sector terminated an employee because she was pregnantand about to go on maternity leave. This is a direct violation of the:",
+	  				"A":"employment equity legislation of the applicable province",
+	  				"B":"human rights legislation of the applicable province.",
+	  				"C":"Employment Standards Act.",
+	  				"D":"Charter of Rights and Freedoms.",
+	  				"E":" health and safety legislation.",
+	  				"Ans":"B"
+	  			},
+	  			{
+	  				"Q":"Visible minority group members also made some progress in their representation in the federal private sector. Their representation:",
+	  				"A":"more than doubled from 4.9% in 1987 to 13.3% in 2004.",
+	  				"B":"more than tripled from 4.9% in 1987 to 11.7% in 2001.",
+	  				"C":"is higher than their estimated availability.",
+	  				"D":"more than tripled from 8% in 1987 to 15% in 2001.",
+	  				"E":"more than doubled from 8% in 1987 to 15% in 2001.",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"The most difficult type of discrimination to detect and combat is",
+	  				"A":"systemic discrimination",
+	  				"B":"differential treatment",
+	  				"C":"intentional direct discrimination.",
+	  				"D":"reverse discrimination",
+	  				"E":"intentional indirect discrimination.",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Jim isa new employee.He makes unwelcome sexual remarks and jokes.His behaviour is offensive and intimidating to the female employees. Jim's behaviour is an example of:",
+	  				"A":"sexual harassment",
+	  				"B":"permissible behaviour",
+	  				"C":"sexual coercion.",
+	  				"D":"sexual annoyance",
+	  				"E":"permissible behaviour as long as it does not violate a policy",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"A company with employees in different provinces/territories must monitor the legislation in each of the jurisdictions because:",
+	  				"A":"legislation changes, and it may vary from one jurisdiction to another.",
+	  				"B":"legislation has commonalities across jurisdictions.",
+	  				"C":"it is required under Canada Labour Code",
+	  				"D":"it isrequired under theHuman Rights Act.",
+	  				"E":"it isspecified under employment law.",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"A local airline refuses to hire as flight attendants any person who is below 5 feet tall. This is an example of:",
+	  				"A":"apermissibleemployer practice.",
+	  				"B":"a neutral hiring policy.",
+	  				"C":"discrimination on the basis of age.",
+	  				"D":"discrimination on the basis of race and gender.",
+	  				"E":"discrimination on the basis of race.",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Evidence of pervasive patterns of differential treatment against the employment equity designated groups includes:",
+	  				"A":"systemic discrimination",
+	  				"B":"underemployment",
+	  				"C":"sexual harassment",
+	  				"D":"harassment",
+	  				"E":"discrimination",
+	  				"Ans":"B"
+	  			},
+	  			{
+	  				"Q":"Which of the following statements is true?",
+	  				"A":"Human rights legislation prohibits discrimination against all Canadians only in the area of employment",
+	  				"B":"The human rights tribunal has the power to order an employer to give a position to an individual who has been discriminated against.",
+	  				"C":"The human rights tribunal has the power to order an employer to give a position to an individual who hasbeen discriminated against and also hasthepower to order financial compensation for pain and suffering.",
+	  				"D":"Evidence is generally readily available to support the position that age is an accurate indication of a person's ability to perform a particular type of work.",
+	  				"E":"It is legally permissible for a bus company to require new drivers to be between the ages of 24 and 35for thebusinesspurposethat newly hired driverswill get theleast favourableroutes and must therefore be young enough to cope with stress.",
+	  				"Ans":"C"
+	  			},
+	  			{
+	  				"Q":"To ensure that no one experiences feelings of alienation, firms have established:",
+	  				"A":"publications",
+	  				"B":"support groups",
+	  				"C":"policies",
+	  				"D":"diversity training for management",
+	  				"E":"diversity audits",
+	  				"Ans":"B"
+	  			},
+	  			{
+	  				"Q":"Equal pay for equal work specifiesthat",
+	  				"A":"an employer cannot pay male and female employees differently if they are performing substantially the same work.",
+	  				"B":"male-dominated and female-dominated jobs of equal value must be paid the same.",
+	  				"C":"there can be no pay discrimination on the basis of race, gender, or age.",
+	  				"D":"jobs with similar titles must be paid the same.",
+	  				"E":"all people doing the same job should receive an identical pay rate.",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Saleem is a new immigrant with a master's degree in management. Despite his qualifications, Saleem has worked as a clerk in the shipping department of a company for the last year. This is an example of:",
+	  				"A":"a BFOR.",
+	  				"B":"occupational segregation",
+	  				"C":"underemployment.",
+	  				"D":"indirect discrimination",
+	  				"E":"underutilization",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"Comparison data must also be collected on the number of designated group members available in the labour markets from w hich the organization recruits. This data may be obtained from:",
+	  				"A":"workers compensation boards",
+	  				"B":"provincial legislatures",
+	  				"C":"women's directorates",
+	  				"D":"Statistics Canada and women'sdirectorates",
+	  				"E":"Statistics Canada",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Providing specialized training to aid designated group members to break the glass ceiling is an example of",
+	  				"A":"a supportive measure.",
+	  				"B":"an accommodation measure.",
+	  				"C":"illegal preferential treatment.",
+	  				"D":"a positive measure.",
+	  				"E":"aquantitativegoal",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Employment systems typically reviewed during an employment equity audit include",
+	  				"A":"employee opinion survey",
+	  				"B":"stock data and flow data",
+	  				"C":"regression charts",
+	  				"D":"profitability analysis",
+	  				"E":"examination of internal policies and procedures",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"A bank is collecting the following information for an employment equity program: number of designated group membersthat haveapplied for jobswith thefirm,been interviewed,been hired and given opportunities for training, promotions and terminations. What type of data is this organization collecting?",
+	  				"A":"internal data",
+	  				"B":"stock data",
+	  				"C":"utility analysis data",
+	  				"D":"flow data",
+	  				"E":"statistical data",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Reverse discrimination",
+	  				"A":"is caused by thefact that Canada'semployment equity legislation involves government- imposed quotas.",
+	  				"B":"can be avoided if realistic goals and timetables are established.",
+	  				"C":"is a major problem in Canada that needs immediate action.",
+	  				"D":"is an inevitable result of equal opportunity and equity legislation.",
+	  				"E":"resultswhen preferential treatment isgiven to adesignated group member in thecaseof two equally- qualified candidates.",
+	  				"Ans":"B"
+	  			},
+	  			{
+	  				"Q":"Harassment",
+	  				"A":"is prohibited on all prescribed groundsin all jurisdictionsand isaviolation of reasonable accommodation .",
+	  				"B":"includes offensive or humiliating behaviour that is related to a person's sex, as well as behaviour of a sexual nature.",
+	  				"C":"includes unwelcome behaviour that demeans, humiliates, or embarrasses a person, and that a reasonable person should have known would be unwelcome.",
+	  				"D":"on a prohibited ground is not constituted by directing derogatory remarks about Italians towards an Italian employee.",
+	  				"E":"directed by clients or customers towards an employee is not the employer's responsibility on ceit has been reported.",
+	  				"Ans":"C"
+	  			},
+	  			{
+	  				"Q":"The term that applies to data-tracking designated group members by employment transactions and outcomes is:",
+	  				"A":"utilization data",
+	  				"B":"flow data",
+	  				"C":"an employment systems review",
+	  				"D":"stock data",
+	  				"E":"transactional analysis.",
+	  				"Ans":"B"
+	  			},
+	  			{
+	  				"Q":"Deliberately refusing to hire, train, or promote an individual on the basis of age is an example of",
+	  				"A":"unintentional discrimination",
+	  				"B":"intentional indirect discrimination",
+	  				"C":"systemic discrimination",
+	  				"D":"intentional/direct discrimination",
+	  				"E":"discrimination on the basis of association",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Diversity management is",
+	  				"A":"broader and more inclusive in scope than employment equity",
+	  				"B":"targeted at the four designated groups.",
+	  				"C":"a voluntarily- initiated employment equity initiative.",
+	  				"D":"another term for employment equity.",
+	  				"E":"encompassed in legal compliancewith human rightsand employment equity legislation.",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"All jurisdictionsin Canadaprohibit discrimination on thegroundsof:",
+	  				"A":"sexual orientation.",
+	  				"B":"national or ethnic origin",
+	  				"C":"criminal history",
+	  				"D":"length of employment",
+	  				"E":"race",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"Diversity management initiatives will not receive high priority unless",
+	  				"A":"employeesareheld accountable.",
+	  				"B":"new hiresareheld accountable",
+	  				"C":"employees are recognized for them on performance appraisals",
+	  				"D":"formal assessments are completed",
+	  				"E":"supervisors are held accountable for them",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"Which of thefollowing statements about the Charter of Rightsand Freedoms is true?",
+	  				"A":"The Charter provides the right to live and work anywhere in Canada.",
+	  				"B":"The overall impact of the Charter on the LR scene has been significant.",
+	  				"C":"The Charter guarantees the right to strike.",
+	  				"D":"It providesfor minority language education rights and provides the right to liveand work anywhere in Canada.",
+	  				"E":"he federal government is the final arbiter of the Charter.",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Which of the following statements describe the Charter of Rights and Freedoms accurately?",
+	  				"A":"It applies to employees in certain provinces only.",
+	  				"B":"TheCourtsof Appeal aretheultimateinterpretersof theCharter.",
+	  				"C":"Employment standards legislation supercedes the Charter",
+	  				"D":'Legislation cannot be exempted from challenge under the Charter if a legislative body invokes the "notwithstanding" provision',
+	  				"E":"The Charter allows laws to infringe on Charter rights if they can be demonstrably justified as reasonable limits in a free and democratic society.",
+	  				"Ans":"E"
+	  			},
+	  			//38
   		]
-
+]
 }])
 }())
