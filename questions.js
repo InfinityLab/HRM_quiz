@@ -1013,5 +1013,284 @@
 	  				"E":"indicate a hiring preference for single persons as flight attendants.",
 	  				"Ans":"A"
 	  			},
+	  			{
+	  				"Q":"The existence of certain occupations that have traditionally been performed by males and others that have been female dominated is known as:",
+	  				"A":"occupational segregation",
+	  				"B":"underutilization",
+	  				"C":"concentration",
+	  				"D":"underemployment",
+	  				"E":"the glassceiling",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":'A "poisoned" work environment isassociated with:',
+	  				"A":"toxic substances",
+	  				"B":"an occupational health and safety violation",
+	  				"C":"sexual annoyance",
+	  				"D":"a direct link to tangible job benefits",
+	  				"E":"sexual coercion",
+	  				"Ans":"C"
+	  			},
+	  			{
+	  				"Q":"The groups identified as having been subjected to pervasive patterns of differential treatment by Canadian employers, referred to in the federal employment equity legislation as designated groups,include:",
+	  				"A":"woman",
+	  				"B":"homosexual",
+	  				"C":"men",
+	  				"D":"clergy",
+	  				"E":"non of the above",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Reasons for embracing diversity include:",
+	  				"A":"thefact that employeeswith different ethnicbackgroundsoften possessforeign-language skills",
+	  				"B":"ethical and social responsibility concerns only.",
+	  				"C":"it is required by legislation.",
+	  				"D":"the spending power of Canada's visible minorities and it is required by legislation.",
+	  				"E":"ethical and social responsibility concerns,thespendingpower of Canada'svisibleminorities, and the fact that employees with different ethnic backgrounds often possess foreign- language skills.",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"Refusing to promote a highly qualified white male into senior management because his wife has just been diagnosed with a chronic illness that might interfere with his willingness to work long hours is an example of:",
+	  				"A":"discrimination on the basis of association",
+	  				"B":"discrimination on the basis of disability",
+	  				"C":"differential treatment",
+	  				"D":"systemic discrimination",
+	  				"E":"reverse discrimination",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Refusing to hire a man convicted and pardoned for a drug- related offence as a counsellor at a federal correctional centre is an example of",
+	  				"A":"apermissibleemployer practiceunder all human rightslegislation.",
+	  				"B":"pro- active recruitment.",
+	  				"C":"intentional direct discrimination.",
+	  				"D":"protection against negligent hiring.",
+	  				"E":"systemic discrimination",
+	  				"Ans":"C"
+	  			},
+	  			{
+	  				"Q":"A national railway has a safety rule that all employees working in the rail yard must wear hardhats. Several Sikh employees have refused to follow the rule as their religion forbids them from removing their turbanswhich iswhat isrequired in order for them to wear the hard hats. Which of thefollowing istrue?",
+	  				"A":"This is direct discrimination on the basis of religion",
+	  				"B":"This is systemic discrimination",
+	  				"C":"There is no discrimination.",
+	  				"D":"This is intentional discrimination.",
+	  				"E":"This is systemic discrimination on the basis of religion",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"Employment equity legislation aims to:",
+	  				"A":"request employersunder provincial jurisdiction to haveabetter representation of the designated groups at all levels within the organization.",
+	  				"B":"removeemployment barriersand promoteequality for thewomen,visibleminorities, aboriginal people and persons with disabilities.",
+	  				"C":"bring the six traditionally disadvantaged groups into the mainstream of Canada's labour force",
+	  				"D":"request employers under federal and provincial jurisdiction to have a better representation of the designated groups at all levels within the organization.",
+	  				"E":"remedy discrimination on the basis of gender, race, and disability",
+	  				"Ans":"B"
+	  			},
+	  			{
+	  				"Q":"Which of the following statements about equal pay for equal work legislation is true?",
+	  				"A":"In the federal jurisdiction, this principle has been incorporated into the Employment Standards Act since 1971",
+	  				"B":'The principle "equal pay for equal work" makes it illegal to discriminatein pay on the basis of age',
+	  				"C":' The principle "equal pay for equal work" makes it illegal to pay nurses and fire fighters differently if their jobs are deemed to be of equal worth to the employer.',
+	  				"D":" Every jurisdiction in Canada has legislation incorporating the principle of equal pay for equal work.",
+	  				"E":"Entitlement is found in the employment/labour standards legislation in every Canadian jurisdiction.",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"An employment equity program is designed to:",
+	  				"A":"achieve a balanced representation of designated group members",
+	  				"B":"reduce effects of a poisoned environment.",
+	  				"C":"increase representation of men in corporate board.",
+	  				"D":"increase occupational segregation",
+	  				"E":"reduce harassment and related complaints",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"The Charter of Rights and Freedoms and the rights it contains such as freedom of association apply to:",
+	  				"A":"public and private sector employers",
+	  				"B":"actionsof thefederal government only",
+	  				"C":"private sector employers only.",
+	  				"D":"actions of the federal, provincial and municipal governments",
+	  				"E":"actions of all governments and all employers",
+	  				"Ans":"D"
+	  			},
+	  			{
+	  				"Q":"Examples of systemic discrimination include:",
+	  				"A":"job-related employment tests",
+	  				"B":"refusing to hire persons convicted of a crime in Canada",
+	  				"C":"lack of explicit anti-harassment guidelines and internal or word-of-mouth hiring policies in work placesthat havenot embraced diversity",
+	  				"D":"refusing to hirepersonsof Asian origin",
+	  				"E":"internal or word- of- mouth hiring policies in work places that have not embraced diversity.",
+	  				"Ans":"C"
+	  			},
+	  			{
+	  				"Q":"If a company classifies male employees as administrators and female employees doing the same 58) work as clerks and provides different wage rates based on the classifications, the company is violating the",
+	  				"A":"gender- based discrimination principle.",
+	  				"B":"principleof equal pay for equal work",
+	  				"C":"collective agreement",
+	  				"D":"IncomeTax Act.",
+	  				"E":"noneof theabove",
+	  				"Ans":"B"
+	  			},
+	  			{
+	  				"Q":"The Charter of Rights and Freedoms",
+	  				"A":"takesprecedenceover all other laws",
+	  				"B":"is part of the Constitution A ct of 1992",
+	  				"C":"ensuresthat nolawsinfringeon Charter rights",
+	  				"D":"is fairly limited in scope",
+	  				"E":"applies to all Canadian employees and employers.",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Which types of employment equity initiatives are designed to enable all employees to achieve a better balance between work and other responsibilities?",
+	  				"A":"supportive measures",
+	  				"B":"qualitative goals",
+	  				"C":"quantitative goals",
+	  				"D":"accommodation measures",
+	  				"E":"positive measures",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"TheRoyal Canadian Mounted Policehasarequirement that guardsbeof thesamesex asprisoners being guarded. This is an example of",
+	  				"A":"intentional and indirect discrimination",
+	  				"B":"a violation of bona fide occupational requirement.",
+	  				"C":"systemic discrimination",
+	  				"D":"reasonable accommodation",
+	  				"E":"a bona fide occupational requirement.",
+	  				"Ans":"E"
+	  			},
+	  			{
+	  				"Q":"Remedies for human rights code violations do not include",
+	  				"A":"a written letter of apology",
+	  				"B":"compensation for general damages.",
+	  				"C":"ordering an employer to discriminate on a different prohibited ground than the one complained about.",
+	  				"D":"implementation of an employment equity program",
+	  				"E":"compensation for pain and humiliation.",
+	  				"Ans":"C"
+	  			},
+	  			{
+	  				"Q":"Which of thefollowing statementsabout employment equity goalsistrue?",
+	  				"A":"Goals and timetables are the core of an employment equity program.",
+	  				"B":"Only quantitative goals are applicable to employment equity.",
+	  				"C":"Goals should be tied to firm, fixed timetables.",
+	  				"D":"Goals are the same as quotas",
+	  				"E":"In Canada, employment equity goals are often imposed by government.",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"The Supreme Court of Canada has made it clear that",
+	  				"A":"supervisors can be liable for failing to take action against harassment",
+	  				"B":"alleged harassers should be severely punished",
+	  				"C":"having a harassment policy is sufficient to prevent harassment claims",
+	  				"D":"it is an employee's responsibility to prevent and report harassment",
+	  				"E":"if harassment is occurring, supervisors can ignore it unless an employee reports it to them directly",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Asking young female factory-position applicants to demonstrate their lifting skills and not asking older female candidates or any male candidates to do so is an example of:",
+	  				"A":"discrimination on the basis of age and gender",
+	  				"B":"a permissible employer practice",
+	  				"C":"unintentional direct discrimination",
+	  				"D":"discrimination on the basis of age and race",
+	  				"E":"discrimination on the basis of age",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Although women make up almost one-half of the Canadian workforce,they are still under represented on executive teams.",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"A deliberately structured process is involved when developing an employment equity program",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Job evaluation systems that under value jobs traditionally held by women are an example of constructive discrimination.",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Making derogatory comment simplying sexual unattractiveness can constitute sexual harassment if the person making such comments continues to do so after being asked to stop",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"It is a criminal offence to retaliate in any way against those who exercise their rights under human rights legislation.",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Under equal pay for equal work legislation, pay differences based on a valid merit or seniority system or employee productivity are permitted.",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Employers are expected to accommodate to the point of undue hardship",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"In British Columbia, Quebec and the Yukon, record of criminal conviction is a prohibited ground of discrimination",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"B"
+	  			},
+	  			{
+	  				"Q":"Some juris dictions prohibit harassment on all proscribed grounds, while others only expressly ban sexual harassment",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Contract law governs collective agreements and individual employment contracts.",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"A"
+	  			},
+	  			{
+	  				"Q":"Refusing to hire an individual for a security guard position on the basis that he or she is considered to be too large and heavy is an example of a bona fide occupational requirement",
+	  				"A":"True",
+	  				"B":"False",
+	  				"C":"",
+	  				"D":"",
+	  				"E":"",
+	  				"Ans":"B"
+	  			},
   		]
 ]
