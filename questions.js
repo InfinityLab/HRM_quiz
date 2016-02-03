@@ -1292,5 +1292,25 @@
 	  				"E":"",
 	  				"Ans":"B"
 	  			},
-  		]
+  		],
+  		//Chapter 3
+  		[],
+  		//Chapter 4
+  		[],
+  		//Chapter 5
+  		[],
+  		//Chapter 6
+  		[],
+  		//Chapter 7
+  		[
+			{
+				"Q":"Suggested guidelines to avoid negative legal consequences include all of the following EXCEPT:",
+				"A":"rejecting applicants who make false statements on their application forms.",
+  				"B":"There are no exceptions listed above.",
+  				"C":"keeping careful records documenting each stage of the selection process.",
+  				"D":"adequately assessing each applicant's ability to meet performance standards.",
+  				"E":"checking references very carefully.",
+  				"Ans":"B"
+			}
+  		],
 ]
