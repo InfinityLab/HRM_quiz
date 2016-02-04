@@ -2024,4 +2024,656 @@
 				"Ans":"B"
 			}
   		],
+  		//Chapter 8
+  		[
+			{
+				"Q":"The basic aim of customer service training is to:",
+				"A":"use CBT training.",
+				"B":"train all employees to have excellent knowledge of the organization.",
+				"C":"use online training.",
+				"D":"emphasize that \"the customer is always right.\"",
+				"E":"train in teams.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The following may be problems with an orientation program EXCEPT:",
+				"A":"Orientation provided by the HR department is too broad to be meaningful.",
+				"B":"The immediate supervisor provides a few details at a time.",
+				"C":"Too much information is provided in a short time.",
+				"D":"New employees are inundated with forms to fill out.",
+				"E":"Little or no orientation is provided.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Development is training of a:",
+				"A":"technical nature.",
+				"B":"specific strategic nature.",
+				"C":"immediate nature.",
+				"D":"short-term nature.",
+				"E":"long-term nature.",
+				"Ans":"E"
+			},
+			{
+				"Q":"You have just been hired as the Director of Human Resources at a sportswear retailer. The employee handbook states that \"all employees will have the benefits listed in the handbook for as long as they are employed with the company.\" In revising the contents of the employee handbook it is an important component of your role to be aware of the following;",
+				"A":"employee handbooks should not form part of the orientation process.",
+				"B":"courts have found certain terms in employee handbooks to constitute terms of the employment contract. The company is at legal risk if it decides to alter the benefits package in the future.",
+				"C":"it is a best practice to keep benefits static over time.",
+				"D":"it should not be a job requirement that employees review the handbook.",
+				"E":"in employee dismissal situations courts rarely review handbooks.",
+				"Ans":"B"
+			},
+			{
+				"Q":"\"Learning management systems\" are:",
+				"A":"educational strategies.",
+				"B":"focused on the logistics of managing learning.",
+				"C":"\"blended learning systems.\"",
+				"D":"able to deliver personalized content in small \"chunks.\"",
+				"E":"learner support tools.",
+				"Ans":"B"
+			},
+			{
+				"Q":"The following are functions of programmed learning EXCEPT:",
+				"A":"presenting questions or problems to the learner.",
+				"B":"permitting the trainee to perform on-the-job.",
+				"C":"allowing the person to respond.",
+				"D":"providing feedback on the accuracy of his or her answers.",
+				"E":"presenting facts to the learner.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Members of designated groups should have as much chance of successfully completing the training program as do others to prevent any:",
+				"A":"unreliable results.",
+				"B":"job instruction training.",
+				"C":"grievance actions.",
+				"D":"on-the-job training.",
+				"E":"discrimination.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Negligent training occurs when an employer:",
+				"A":"fails to develop an employee for long-term opportunity.",
+				"B":"fails to train adequately and an employee subsequently harms a third party.",
+				"C":"does not do a validation process.",
+				"D":"does not evaluate the training.",
+				"E":"does not do a needs analysis.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Once employees have been recruited and selected, the next step would be:",
+				"A":"orientation and training.",
+				"B":"interviews by coworkers.",
+				"C":"rules and procedures.",
+				"D":"affirmative action and equal access to a job.",
+				"E":"discipline and counselling.",
+				"Ans":"A"
+			},
+			{
+				"Q":"To reduce the risk of negligent training accusations, an employer should:",
+				"A":"hire consultants to do training.",
+				"B":"offer basic training programs only.",
+				"C":"never change the training program content.",
+				"D":"train all employees who work with dangerous equipment, materials, or processes.",
+				"E":"accept all applicants for training programs.",
+				"Ans":"D"
+			},
+			{
+				"Q":"More and more companies are finding it necessary to compete based on:",
+				"A":"production bottlenecks.",
+				"B":"the quality of their service.",
+				"C":"unity-of-command principles.",
+				"D":"union problems.",
+				"E":"discount prices.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Recent research indicates that implementing a comprehensive onboarding program in a corporation carries the following additional direct benefit:",
+				"A":"improving employee perceptions of management's leadership abilities.",
+				"B":"increasing work-life balance for employees.",
+				"C":"improving management's leadership ability.",
+				"D":"increasing customer loyalty.",
+				"E":"improving employee perceptions of management's leadership abilities and reducing employee turnover.",
+				"Ans":"E"
+			},
+			{
+				"Q":"A technique for determining the training needs of newly-hired employees is:",
+				"A":"task analysis.",
+				"B":"observations.",
+				"C":"testing.",
+				"D":"performance analysis.",
+				"E":"personnel records.",
+				"Ans":"A"
+			},
+			{
+				"Q":"In column three of a task analysis record form the standards of performance should be:",
+				"A":"stated in measurable terms.",
+				"B":"estimated.",
+				"C":"randomly selected.",
+				"D":"tightly woven.",
+				"E":"as loose as possible.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Under Canadian human rights legislation, several aspects of training programs must be assessed with an eye toward the program's impact on:",
+				"A":"company profits.",
+				"B":"designated group members.",
+				"C":"white males.",
+				"D":"highly educated workers.",
+				"E":"reverse discrimination.",
+				"Ans":"B"
+			},
+			{
+				"Q":"A training technique in which trainees learn on the actual or simulated equipment they will use on-the-job, but the trainees are actually trained off-the-job, is known as:",
+				"A":"programmed learning.",
+				"B":"actual training.",
+				"C":"off-the-job training.",
+				"D":"on-the-job training.",
+				"E":"vestibule or simulated training.",
+				"Ans":"E"
+			},
+			{
+				"Q":"In a task analysis record form, the task list defines the jobs:",
+				"A":"main tasks and subtasks.",
+				"B":"supplementary tasks.",
+				"C":"primary tasks.",
+				"D":"secondary tasks.",
+				"E":"supplemental tasks.",
+				"Ans":"A"
+			},
+			{
+				"Q":"A technique for determining the training needs of current employees is:",
+				"A":"questionnaires.",
+				"B":"motivation analysis.",
+				"C":"training analysis.",
+				"D":"task analysis.",
+				"E":"performance analysis.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Cultural sensitivity training includes:",
+				"A":"audiovisual techniques.",
+				"B":"on-the-job training.",
+				"C":"language training.",
+				"D":"T-groups.",
+				"E":"sensitizing employees to the views of different cultural groups toward work.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Many jobs consist of a logical sequence of steps and are best taught step by step. This type of training is called:",
+				"A":"process training.",
+				"B":"computerized training.",
+				"C":"vestibule training.",
+				"D":"job instruction training.",
+				"E":"on-the-job training.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Training is essentially a(n):",
+				"A":"testing process.",
+				"B":"learning process.",
+				"C":"technical process.",
+				"D":"assessment process.",
+				"E":"memorizing process.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Effective pre-training preparation includes:",
+				"A":"a realistic job preview.",
+				"B":"employee orientation.",
+				"C":"reality shock.",
+				"D":"employee testing.",
+				"E":"creating a perceived need for training in the mind of participants.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Literacy training improves bottom-line performance through:",
+				"A":"lower costs.",
+				"B":"employer discipline processes.",
+				"C":"computer-based training.",
+				"D":"programmed learning.",
+				"E":"outside professional teachers.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Purposes of training needs analysis include the following EXCEPT:",
+				"A":"identify specific job performance and skills needed.",
+				"B":"develop reasonable performance objectives.",
+				"C":"develop specific knowledge objectives.",
+				"D":"analyze skills and needs of prospective trainees.",
+				"E":"ensure employment equity goals are met.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Web-based training costs about ________ less than traditional classroom-based training.",
+				"A":"50%",
+				"B":"40%",
+				"C":"80%",
+				"D":"20%",
+				"E":"5%",
+				"Ans":"A"
+			},
+			{
+				"Q":"Computer-based training programs (CBT) are beneficial in the following ways:",
+				"A":"instructional consistency.",
+				"B":"increased auditory learning.",
+				"C":"increased trainee motivation.",
+				"D":"decreased content complexity.",
+				"E":"instructional consistency and flexibility of scheduling for the trainee.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Effective training needs analysis results in:",
+				"A":"task analysis.",
+				"B":"concrete, measurable training objectives.",
+				"C":"performance analysis.",
+				"D":"excellent job performance.",
+				"E":"performance standards.",
+				"Ans":"B"
+			},
+			{
+				"Q":"A training method that joins two or more distant groups using a combination of audio and visual equipment is called:",
+				"A":"on-the-job training.",
+				"B":"job instruction training.",
+				"C":"videoconferencing.",
+				"D":"computer program training.",
+				"E":"programmed learning.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The following are steps in an ideal training program EXCEPT:",
+				"A":"needs analysis.",
+				"B":"validation.",
+				"C":"evaluation.",
+				"D":"instructional design.",
+				"E":"summarize and review.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Before getting in front of a camera for videoconferencing, the instructor should:",
+				"A":"practice vestibule training.",
+				"B":"visit other cities where learners will be located.",
+				"C":"participate in computerized training.",
+				"D":"prepare a training manual for learners.",
+				"E":"arrive just before going on camera.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Cross-cultural communications training covers:",
+				"A":"workplace cultural etiquette and interpersonal skills.",
+				"B":"history of other nations.",
+				"C":"literacy training.",
+				"D":"computer-based simulations.",
+				"E":"T-groups.",
+				"Ans":"A"
+			},
+			{
+				"Q":"People have three main learning styles. One is:",
+				"A":"visual.",
+				"B":"differences.",
+				"C":"presenting.",
+				"D":"similarities.",
+				"E":"organizing.",
+				"Ans":"A"
+			},
+			{
+				"Q":"The last column of the task analysis record form indicates whether the task is best learned from:",
+				"A":"on-the-job training.",
+				"B":"simulated training.",
+				"C":"on- or off-the-job training.",
+				"D":"vestibule training.",
+				"E":"job instruction training.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The first step in a training program is to determine:",
+				"A":"job instruction training.",
+				"B":"training needs.",
+				"C":"the number of trainees.",
+				"D":"on-the-job training.",
+				"E":"training evaluation.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Best practices in evaluation of training involve the following:",
+				"A":"evaluating trainees reactions to the program and assessing whether the trainees behaviour on the job has changed.",
+				"B":"evaluating trainees reactions to the program.",
+				"C":"reviewing orientation outcomes.",
+				"D":"running a pilot study.",
+				"E":"job evaluation.",
+				"Ans":"D"
+			},
+			{
+				"Q":"A systematic method of training that is used for teaching job skills involving presenting questions or facts, allowing the trainee to respond, and giving the trainee immediate feedback on the accuracy of his/her answers is known as:",
+				"A":"systematic learning.",
+				"B":"responsive learning.",
+				"C":"programmed learning.",
+				"D":"on-the-job training.",
+				"E":"immediate feedback learning.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Effective means to connect the firm to employees who have been hired but have not yet started in the workplace include:",
+				"A":"communications through newsletters and invitations to meet with mentors.",
+				"B":"performance management.",
+				"C":"voicemail training.",
+				"D":"invitations to meet with mentors.",
+				"E":"no means are recommended.",
+				"Ans":"A"
+			},
+			{
+				"Q":"More employers today are also taking advantage of the fact that training can strengthen employee:",
+				"A":"complacency.",
+				"B":"turnover.",
+				"C":"quality.",
+				"D":"commitment.",
+				"E":"absenteeism.",
+				"Ans":"D"
+			},
+			{
+				"Q":"You have chosen the instructional design for the new training program you are responsible for. In order to ensure that the training program will meet its objectives it is important to do the following before implementing the program company- wide:",
+				"A":"assess employee socialization.",
+				"B":"do a needs assessment.",
+				"C":"conduct a job analysis.",
+				"D":"decide whether computer-based training is appropriate.",
+				"E":"conduct a pilot study with a small group of employees and assess the results.",
+				"Ans":"E"
+			},
+			{
+				"Q":"An important key to successful executive integration is:",
+				"A":"stressing the importance of listening as well as demonstrating competency and identifying position specifications.",
+				"B":"norms of the organization must be understood before the first day of work.",
+				"C":"stressing the importance of listening as well as demonstrating competency.",
+				"D":"to let executives integrate on their own initiative.",
+				"E":"the realization that executives rarely experience reality shock.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Advantages of on-the-job training include the following EXCEPT:",
+				"A":"learning while producing.",
+				"B":"trainees get quick feedback.",
+				"C":"self-paced training.",
+				"D":"minimal or no use of classrooms or programmed learning devices.",
+				"E":"being relatively inexpensive.",
+				"Ans":"C"
+			},
+			{
+				"Q":"A new employee's supervisor orients the employee by:",
+				"A":"explaining the exact nature of the job.",
+				"B":"taking the entire work group out to lunch.",
+				"C":"explaining the retirement plan.",
+				"D":"conducting an appraisal session.",
+				"E":"conducting an exit interview.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Targus, an engineering consulting company based in Vancouver, Canada, has opened new offices in Hong Kong and Singapore. Targus wishes to hire Asian-born staff for these new offices and would also like to increase the percentage of aboriginal persons it hires as engineering consultants in British Columbia and Saskatchewan. Given this shift in hiring practices, designing the orientation program for the company will present the following challenge:",
+				"A":"there is no challenge.",
+				"B":"the main leaning style of new employees will be auditory.",
+				"C":"the challenge of union vs non-union employees.",
+				"D":"hiring a diverse workforce creates a new corporate culture.",
+				"E":"orienting employees from a different background poses a special challenge. The values of the organization may be new to them.",
+				"Ans":"E"
+			},
+			{
+				"Q":"One approach to the evaluation of orientation programs is:",
+				"A":"Markov analysis.",
+				"B":"regression analysis.",
+				"C":"quality circles.",
+				"D":"cost-benefit analysis.",
+				"E":"case studies.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The legal aspects of training may require showing that the admissions procedures are:",
+				"A":"reliable.",
+				"B":"external.",
+				"C":"valid.",
+				"D":"invalid.",
+				"E":"reviewed regularly.",
+				"Ans":"C"
+			},
+			{
+				"Q":"You have been hired as the new Executive Director of a child and family services agency and are considering implementing an employee orientation program at this organization. The benefits that this new program will likely bring to the organization include:",
+				"A":"affirmative action.",
+				"B":"promoting workforce diversity.",
+				"C":"legal compliance.",
+				"D":"making employees more productive more quickly and establishing a foundation for ongoing performance management.",
+				"E":"making employees more productive more quickly.",
+				"Ans":"D"
+			},
+			{
+				"Q":"In today's service-based economy, a company's most important assets are often:",
+				"A":"office premises.",
+				"B":"plant facilities.",
+				"C":"highly knowledgeable workers.",
+				"D":"cash.",
+				"E":"machinery.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The technique used when verifying whether there is a significant performance deficiency, and determining if that deficiency should be rectified through training or by some other means (such as changing the machinery or transferring the employee), is called:",
+				"A":"motivation analysis.",
+				"B":"task analysis.",
+				"C":"performance analysis.",
+				"D":"employee analysis.",
+				"E":"training analysis.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Recent research has identified critical competencies required to succeed in the global economy. They are:",
+				"A":"focusing and mobilizing the business.",
+				"B":"engaging and challenging other people.",
+				"C":"business literacy.",
+				"D":"understanding and valuing oneself.",
+				"E":"all of the above.",
+				"Ans":"E"
+			},
+			{
+				"Q":"It is common for organizations to hire and train entry-level workers who are:",
+				"A":"highly educated.",
+				"B":"very intelligent.",
+				"C":"highly experienced.",
+				"D":"highly motivated.",
+				"E":"inexperienced.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The on-going process of instilling in all employees the prevailing attitudes, standards, values, and patterns of behaviour that are expected by the organization and its departments is:",
+				"A":"affirmative action.",
+				"B":"culture.",
+				"C":"socialization.",
+				"D":"job evaluation.",
+				"E":"performance appraisal.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Integration at senior levels in the organization requires an ongoing process that can continue for months as the new executive learns about:",
+				"A":"how decisions are made and who holds what type of power.",
+				"B":"the organizational structure.",
+				"C":"performance appraisals.",
+				"D":"socialization.",
+				"E":"senior management.",
+				"Ans":"A"
+			},
+			{
+				"Q":"When an employer fails to train adequately this is referred to as:",
+				"A":"negligent training.",
+				"B":"on-the-job training.",
+				"C":"simulated training.",
+				"D":"job instruction training.",
+				"E":"affirmative action.",
+				"Ans":"A"
+			},
+			{
+				"Q":"The following are steps in an employee's training program EXCEPT:",
+				"A":"assessing training needs.",
+				"B":"evaluating the training.",
+				"C":"designing the training program.",
+				"D":"attending the orientation program.",
+				"E":"validating the training program.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Tech Solutions Inc. is a software development firm that is considering implementing a Web-based training program for experienced software developers who will be working on a new program for the company. Tech Solutions wishes the training program students to be from its offices located in Toronto, Canada Shang Hai, China, and Kuala Lumpur, Malaysia. This E--learning training technique is ideal for the following reasons:",
+				"A":"it is \"blended learning.\"",
+				"B":"it is only slightly less costly than traditional classroom based training.",
+				"C":"there is no instructional consistency.",
+				"D":"it provides these busy professionals with flexibility in scheduling training sessions.",
+				"E":"research shows students do not have to be highly motivated to complete the training.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The first step in performance analysis is to appraise the employee's performance, since to improve it, the firm must first determine the person's current performance compared to:",
+				"A":"what it really is.",
+				"B":"managerial performance.",
+				"C":"work group performance.",
+				"D":"what it should be.",
+				"E":"co- workers' performance.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The heart of performance analysis is distinguishing between:",
+				"A":"different supervisory practices.",
+				"B":"good and bad employees.",
+				"C":"experience levels of employees.",
+				"D":"\"can't do\" and \"won't do\" problems.",
+				"E":"employee training levels.",
+				"Ans":"D"
+			},
+			{
+				"Q":"With a work force that is becoming increasingly diverse, many more firms find they must implement:",
+				"A":"value training programs.",
+				"B":"computer-based training.",
+				"C":"diversity training programs.",
+				"D":"teamwork training programs.",
+				"E":"experimentation training programs.",
+				"Ans":"C"
+			},
+			{
+				"Q":"No matter what training needs assessment technique is used to assess training effectiveness, it is wise to seek input from:",
+				"A":"training journals.",
+				"B":"managers and supervisors.",
+				"C":"employees.",
+				"D":"professional trainers.",
+				"E":"other companies.",
+				"Ans":"C"
+			},
+			{
+				"Q":"A training technique where trainees are presented with integrated computerized simulations and the use of multimedia, including videotapes, to help the trainee learn how to do the job is called:",
+				"A":"computer-based training.",
+				"B":"on-the-job training.",
+				"C":"job instruction training.",
+				"D":"videoconferencing.",
+				"E":"coaching or mentoring.",
+				"Ans":"A"
+			},
+			{
+				"Q":"The heart of the task analysis record form is the column in which:",
+				"A":"there is an indication of whether the task is learned best on- or off-the-job.",
+				"B":"the task is listed.",
+				"C":"the standards of performance for each task and subtask are listed.",
+				"D":"the job's main tasks and subtasks are listed.",
+				"E":"the competencies and specific skills or knowledge required for each of the tasks and subtasks are listed.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The list of specific duties and skills required on the job, which are used in determining the training required for performing the job, are found in:",
+				"A":"performance standards.",
+				"B":"job standards and specialization.",
+				"C":"equal access and affirmative action.",
+				"D":"job descriptions and job specifications.",
+				"E":"job instruction and on-the-job training.",
+				"Ans":"D"
+			},
+			{
+				"Q":"A structured process by which individuals become skilled workers through a combination of classroom instruction and on-the-job training is referred to as:",
+				"A":"special assignment training.",
+				"B":"vestibule training.",
+				"C":"apprenticeship training.",
+				"D":"job instruction training.",
+				"E":"computerized training.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Training is part of an organization's:",
+				"A":"strategic plan.",
+				"B":"business plan.",
+				"C":"business need.",
+				"D":"tactical plan.",
+				"E":"immediate plan.",
+				"Ans":"A"
+			},
+			{
+				"Q":"It is suggested that training programs are designed to facilitate the transfer of learning from the training site to the:",
+				"A":"trainee.",
+				"B":"vestibule school.",
+				"C":"trainee's examination paper.",
+				"D":"job site.",
+				"E":"classroom.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The process of teaching new employees the basic skills they need to perform their jobs is:",
+				"A":"recruiting.",
+				"B":"affirmative action.",
+				"C":"training.",
+				"D":"coaching.",
+				"E":"orientation.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Trainees learn best when they learn at:",
+				"A":"an off-the-job setting.",
+				"B":"their own pace.",
+				"C":"a country resort.",
+				"D":"the pace set by their trainer.",
+				"E":"the pace set by their supervisor.",
+				"Ans":"B"
+			},
+			{
+				"Q":"The type of information that is found on an employer task analysis record form includes the following EXCEPT:",
+				"A":"quantity, quality standards.",
+				"B":"performance conditions.",
+				"C":"how often performed.",
+				"D":"task list.",
+				"E":"skills not required to learn.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Audiovisual training techniques are useful in the following situations EXCEPT:",
+				"A":"when training is going to be used organization- wide.",
+				"B":"when stop-action, instant-replay, or fast- or slow-motion capabilities are needed.",
+				"C":"when it is too costly to move trainers from place to place.",
+				"D":"when trainees must be exposed to events that are not easily demonstrated in live lectures.",
+				"E":"when a training method less expensive than conventional lectures is needed.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The state which results from the discrepancy between what the new employee expected from his or her new job and the realities of it is:",
+				"A":"reality shock.",
+				"B":"affirmative action.",
+				"C":"socialization.",
+				"D":"mentoring.",
+				"E":"job instruction training.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Training objectives provide a focus for the efforts of the trainer and the trainees, and:",
+				"A":"input for Markov analysis.",
+				"B":"data for the task analysis record form data.",
+				"C":"orientation topics.",
+				"D":"a benchmark for evaluating the success of the training program.",
+				"E":"performance analysis techniques.",
+				"Ans":"D"
+			},
+			{
+				"Q":"When an employee actually learns a job by performing it, it is called:",
+				"A":"vestibule training.",
+				"B":"job instruction training.",
+				"C":"distance learning.",
+				"D":"on-the-job training.",
+				"E":"computerized training.",
+				"Ans":"D"
+			}
+
+  		]
 ]

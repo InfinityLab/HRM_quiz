@@ -12,6 +12,9 @@
         },{
           "id": 7,
           "selected":false
+        },{
+          "id":8,
+          "selected":false
         }];
 
         $scope.NextQuestion = function(){
