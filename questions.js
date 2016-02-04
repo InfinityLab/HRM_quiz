@@ -1311,6 +1311,717 @@
   				"D":"adequately assessing each applicant's ability to meet performance standards.",
   				"E":"checking references very carefully.",
   				"Ans":"B"
+			},
+			{
+				"Q":"Intelligence tests measure all of the following traits EXCEPT: ",
+				"A":"memory.",
+				"B":"numerical ability.",
+				"C":"vocabulary.",
+				"D":"extrasensory perception. ",
+				"E":"verbal fluency.",
+				"Ans":"D "
+			},
+			{
+				"Q":"Girish is the owner of a software development firm with 60 employees. He wishes to implement a formal testing program which measures work related traits and behaviours. Which of the following do you recommend he implement?",
+				"A":"panel interviews",
+				"B":"a computerized testing program",
+				"C":"There is no such tool.",
+				"D":"the Wonderlic Personnel Text ",
+				"E":"The Predictive Index",
+				"Ans":"E "
+			},
+			{
+				"Q":"Which of the following statements is true?",
+				"A":"The HR department staff members generally screen and test applicants, perform reference checking, and make the final selection decision.",
+				"B":"Selection strategies should be continually refined, regardless of cost.",
+				"C":"The organization's strategic plan places major constraints on selection decisions.",
+				"D":"The types of selection instruments and screening devices used are fairly standardized.",
+				"E":"Selection plays a relatively minor role in the achievement of employment equity goals.",
+				"Ans":"C "
+			},
+			{
+				"Q":"The interview format that may seem quite mechanical to all concerned is known as: ",
+				"A":"nondirective.",
+				"B":"unstructured.",
+				"C":"mixed.",
+				"D":"structured.",
+				"E":"stress-producing.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Asking an applicant how he or she would handle a situation where his/her manager assigned work with competing deadlines would be an example of which interview technique?",
+				"A":"stress",
+				"B":"situational",
+				"C":"nondirective",
+				"D":"behavioural ",
+				"E":"structured",
+				"Ans":"B"
+			},
+			{
+				"Q":"The immediate supervisor is generally responsible for making the final selection decision. Reasons for this include all of the following EXCEPT:",
+				"A":"He or she is generally best qualified to assess job knowledge and skills.",
+				"B":"If he or she is not committed to the selected individual, that person can easily be set up for failure.",
+				"C":"He or she must provide guidance and assistance to the new hire.",
+				"D":"He or she is often highly skilled in the selection process.",
+				"E":"It is important that the individual selected fits in with current department members.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Most interviews are administered:",
+				"A":"by computers.",
+				"B":"one on one.",
+				"C":"on a standard evaluation form.",
+				"D":"simultaneously by a group.",
+				"E":"simultaneously by several candidates.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Which of the following statements is true?",
+				"A":"The organization's right to know outweighs an individual's right to privacy.",
+				"B":"Accepting gifts from a private employment agency wanting the firm's business is an acceptable practice.",
+				"C":"A small selection ratio, such as 25:1, means that there are very few applicants from which to select.",
+				"D":"By basing selection criteria on bona fide occupational requirements, defined through job analysis, firms can create a legally defensible hiring system.",
+				"E":"The selection ratio is generally unrelated to the quality of recruits.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Which interview format involves a series of preset questions asked of all candidates and a series of preset candidate-specific questions?",
+				"A":"nondirective ",
+				"B":"behavioural ",
+				"C":"situational",
+				"D":"structured ",
+				"E":"mixed",
+				"Ans":"E"
+			},
+			{
+				"Q":"The halo effect related to selection is a: ",
+				"A":"negative impression made at the end of the interview that will distort an interviewer's rating.",
+				"B":"positive impression made at the end of the interview that will distort an interviewer's rating.",
+				"C":"negative initial impression that distorts an interviewer's rating. ",
+				"D":"positive initial impression that distorts an interviewer's rating.",
+				"E":"None of the above.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Work samples focus on measuring: ",
+				"A":"job performance directly.",
+				"B":"expert appraisers' evaluations.",
+				"C":"physical abilities only.",
+				"D":"the \"Big Five\" personality dimensions. ",
+				"E":"hypothetical situations.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Advantages of a panel interview include all of the following EXCEPT:",
+				"A":"they require less time, overall.",
+				"B":"they include varied questions pertaining to each interviewer's area of expertise. ",
+				"C":"there is less likelihood of interviewer error.",
+				"D":"the likelihood of human rights/employment equity violations is greatly reduced. ",
+				"E":"there are no exceptions listed above.",
+				"Ans":"E"
+			},
+			{
+				"Q":"A serialized interview occurs when: 14)",
+				"A":"a panel simultaneously interviews several candidates.",
+				"B":"each interviewer evaluates the applicant from his or her own point of view.",
+				"C":"a candidate's oral and/or computerized responses are obtained in response to computerized oral and written questions.",
+				"D":"each interviewee only attends one interview.",
+				"E":"each interviewer rates the candidate on a standard evaluation form, and the ratings are compared before the hiring decision is made.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Behavioural questions describe: ",
+				"A":"future behaviour.",
+				"B":"hypothetical situations.",
+				"C":"preset candidate reactions.",
+				"D":"candidate personality",
+				"E":"various situations experienced in the past.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The multiple hurdle strategy is an approach to selection involving a(n):",
+				"A":"selection of instruments for selection purposes.",
+				"B":"reliability and validity analysis.",
+				"C":"series of successive steps or hurdles. ",
+				"D":"series of interviews.",
+				"E":"none of the above.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The interviewing method in which the applicant is interviewed by a number of people at once is known as:",
+				"A":"sequential. ",
+				"B":"behavioural. ",
+				"C":"mass.",
+				"D":"serialized. ",
+				"E":"panel.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Sandeep Gill is the manager of a busy local branch of a provincial credit union, Envirobank. The branch recently had to hire 5 new tellers to meet the rise in demand for branch services. The branch relied mainly on candidate interviews as a selection \"tool.\" Although Sandeep thought he had planned the candidate interviewing process well and had designed effective questions for assessing the candidates, the 3 candidates who were rated the highest in the interview did not meet basic performance expectations following their hire. The primary problem with the selection \"tool\" chosen and designed by Sandeep is one of:",
+				"A":"validity.",
+				"B":"There is no problem with this selection \"tool.\" ",
+				"C":"reliability.",
+				"D":"impression management. ",
+				"E":"integrity.",
+				"Ans":"A"
+			},
+			{
+				"Q":"A hiring manager asks the following question in an interview \"This position requires someone skilled in dispute resolution. This is skill you possess isn't it?\" This is an example of the interviewing mistake known as:",
+				"A":"snap judgments. ",
+				"B":"halo effect.",
+				"C":"similar to me bias.",
+				"D":"contrast error. ",
+				"E":"telegraphing.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The purpose of pre-employment substance abuse testing is to: ",
+				"A":"test mental abilities.",
+				"B":"avoid hiring employees who would pose unnecessary risks to themselves or others. ",
+				"C":"reduce accidents.",
+				"D":"address absenteeism.",
+				"E":"determine that the applicant qualifies for the physical requirements of the position.",
+				"Ans":"B"
+			},
+			{
+				"Q":"A test in which an ambiguous stimulus is presented and the person taking the test is expected to interpret or react to it is a common type of:",
+				"A":"personality test. ",
+				"B":"intelligence test. ",
+				"C":"aptitude test.",
+				"D":"interest inventory. ",
+				"E":"achievement test.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Interviewers who don't know precisely what the job entails and what sort of candidate is best suited for it usually make their decisions based on:",
+				"A":"letters of reference. ",
+				"B":"candidate responses. ",
+				"C":"incorrect stereotypes.",
+				"D":"applicant screening.",
+				"E":"employment test results.",
+				"Ans":"C "
+			},
+			{
+				"Q":"Answering the question, \"Does this predictor measure what it's supposed to measure?\" is an assessment of:",
+				"A":"differential validity.",
+				"B":"personality and behaviour. ",
+				"C":"aptitude and achievement.",
+				"D":"reliability. ",
+				"E":"validity.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The consistency of scores obtained by a person when he or she is retested on the identical test or an 24) equivalent version is an example of:",
+				"A":"criterion-related reliability. ",
+				"B":"validity.",
+				"C":"construct validity.",
+				"D":"content validity. ",
+				"E":"reliability.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Differential validity is:",
+				"A":"the extent to which a selection tool measures a theoretical construct or trait deemed necessary to perform the job well.",
+				"B":"the accuracy with which a predictor measures what it is supposed to measure.",
+				"C":"the extent to which a selection tool predicts or significantly correlates with important elements of work behaviour.",
+				"D":"confirmation that the selection tool accurately predicts the performance of all possible employee subgroups, including white males.",
+				"E":"none of the above.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Which of the following are considered to be \"hidden\" costs of a poor selection process?",
+				"A":"Strategic objectives will not be met.",
+				"B":"Customer alienation and internal disorganization when an unsuccessful employee is terminated.",
+				"C":"customer alienation",
+				"D":"The cost of orienting a newly selected employee to replace the unsuccessful employee who was terminated.",
+				"E":"The cost of beginning the selection process over again when an unsuccessful employee is terminated.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Yung is the manager of human resources at a credit union. Following an incident where a former 27) employee was convicted for theft of customer account information she has become increasingly concerned about negligent hiring lawsuits. Which of the following steps would be the most helpful in addressing her concern?",
+				"A":"ensuring selection criteria are based on job descriptions",
+				"B":"adequately assessing the applicant's ability to meet performance standards",
+				"C":"ensuring selection criteria are based on job specifications",
+				"D":"carefully scrutinizing application forms and checking references",
+				"E":"obtaining consent to check references",
+				"Ans":"D"
+			},
+			{
+				"Q":"The following are physical abilities that an employer might want to measure EXCEPT:",
+				"A":"lifting strength.",
+				"B":"stamina.",
+				"C":"verbal abilities.",
+				"D":"pulling/pushing strength.",
+				"E":"climbing.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Tests that measure an individual's potential to perform a job, provided he or she is given proper 29) training, are known as:",
+				"A":"aptitude tests.",
+				"B":"interest inventories.",
+				"C":"personality tests.",
+				"D":"intelligence tests.",
+				"E":"achievement tests.",
+				"Ans":"A"
+			},
+			{
+				"Q":"While ________ interviews ask interviewees to describe how they would react in a given situation, interviews ask candidates to describe how they did react in that situation in the past.",
+				"A":"behavioural,;situational",
+				"B":"structured; situational",
+				"C":"situational; behavioural",
+				"D":"nondirective; behavioural",
+				"E":"stress; situational",
+				"Ans":"C"
+			},
+			{
+				"Q":"A number of tests commonly used in selection can conveniently be classified according to whether 31) they measure each of the following characteristics EXCEPT:",
+				"A":"memory.",
+				"B":"personal attractiveness and suitability.",
+				"C":"motor and physical abilities.",
+				"D":"monitoring one's own emotions.",
+				"E":"general intellectual abilities.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Employers are increasingly being held liable for damages stemming from their:",
+				"A":"use of unreliable selection tests.",
+				"B":"use of invalid selection tests.",
+				"C":"failure to abide by employment equity legislative requirements.",
+				"D":"discriminatory practices in the selection process.",
+				"E":"\"negligent hiring\" of workers who subsequently commit criminal acts on the job.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Interest inventories are tests that:",
+				"A":"apply to extroversion and emotional stability.",
+				"B":"compare a candidate's interests with those of people in various occupations.",
+				"C":"measure job performance directly.",
+				"D":"measure basic elements of personality.",
+				"E":"measure knowledge and/or proficiency.",
+				"Ans":"B"
+			},
+			{
+				"Q":"All of the following statements are true EXCEPT:",
+				"A":"The selection process is a one-way street.",
+				"B":"Completing an application form is often part of the online application process.",
+				"C":"Initial applicant screening is generally performed by the HR Dept.",
+				"D":"Selection testing is a common screening device to assess specific job-related skills.",
+				"E":"Initial applicant screening involves eliminating candidates lacking the \"must have\" selection criteria.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Renu is the human resources professional at a telecommunications company who is tasked with ensuring that the firm's selection process adheres with the firm's employment equity plan mandated by legislation. Which of the following must she ensure?",
+				"A":"The process does not have an adverse effect on women or persons with disabilities.",
+				"B":"The process does not have an adverse effect on women, persons with disabilities, aboriginal's persons or visible minorities.",
+				"C":"The process does not have an adverse effect on women or members of certain religious groups.",
+				"D":"Written authorization is obtained for reference checking.",
+				"E":"No employees with unsuitable backgrounds are hired.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Motor abilities a firm might want to measure include all of the following EXCEPT:",
+				"A":"finger dexterity.",
+				"B":"spacial visualization.",
+				"C":"speed of arm movement.",
+				"D":"reaction time.",
+				"E":"manual dexterity.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Which error is of particular concern from a human rights law perspective?",
+				"A":"influence of nonverbal behaviour",
+				"B":"contrast (candidate-order) error",
+				"C":"too little talking",
+				"D":"playing attorney",
+				"E":"telegraphing",
+				"Ans":"A"
+			},
+			{
+				"Q":"The two- to three-day strategy used to assess candidates' management potential is known as:",
+				"A":"a leaderless group discussion.",
+				"B":"a management assessment centre. ",
+				"C":"a managerial aptitude test.",
+				"D":"a supervisory interest inventory.",
+				"E":"an in-basket exercise.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Which of the following statements about reference checking is true?",
+				"A":"Firms are increasingly using reference-checking services to thoroughly check references.",
+				"B":"Letters of reference from former employers are viewed very positively.",
+				"C":"Reference checking is generally not worthwhile.",
+				"D":"Only about 10 percent of resumes contain inaccurate information that will be discovered when checking references.",
+				"E":"Women are more likely to lie on resumes than men.",
+				"Ans":"A"
+			},
+			{
+				"Q":"All of the following are common interviewing mistakes EXCEPT:",
+				"A":"asking discriminatory questions.",
+				"B":"poor planning.",
+				"C":"making snap judgments.",
+				"D":"poor knowledge of job.",
+				"E":"too little talking.",
+				"Ans":"A"
+			},
+			{
+				"Q":"An example of a situational question is:",
+				"A":"Tell me about a time when you had to discipline an employee arriving late for work three days in a row.",
+				"B":"Tell me about a time when you managed numerous priorities in a short period of time.",
+				"C":"How would you handle an irate boss who was just told that the output in the department was below standard?",
+				"D":"What type of computer skills are you proficient in?",
+				"E":"None of the above.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Which is true of the interview question: \"How would you handle an angry customer?\"",
+				"A":"It is a situational question which tests knowledge and experience.",
+				"B":"It tests intellectual capacity.",
+				"C":"It tests knowledge and experience.",
+				"D":"It is an example of behavioural interviewing.",
+				"E":"It is a situational question.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Assessment centres are:",
+				"A":"an inexpensive selection strategy.",
+				"B":"a better predictor of performance than any other selection tool.",
+				"C":"a tool that assesses management potential using a special room with a one-way mirror.",
+				"D":"useful for predicting success in jobs of all levels.",
+				"E":"characterized by all of the above.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Hints for making reference checking more productive include all of the following EXCEPT:",
+				"A":"Persist in order to obtain information from the references who are difficult to reach.",
+				"B":"Obtain consent for reference checks.",
+				"C":"Use references provided by the applicant as a source for other references.",
+				"D":"Use an assessment centre.",
+				"E":"Use a structured form.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Which of the following statements about selection testing is true?",
+				"A":"Studies have shown that approximately two-thirds of Canadian organizations use tests for hiring.",
+				"B":"Testing is more prevalent in small organizations.",
+				"C":"The use of tests has been declining in recent years.",
+				"D":"Selection testing generally involves a demonstration of skills.",
+				"E":"Personality and aptitude tests are not commonly used for selection purposes.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Hints for conducting an effective panel interview include all of the following EXCEPT:",
+				"A":"Evaluate the candidate.",
+				"B":"Listen carefully rather than taking notes.",
+				"C":"Build rapport.",
+				"D":"Plan the interview.",
+				"E":"Ask questions.",
+				"Ans":"B"
+			},
+			{
+				"Q":"A selection ratio of 1:3 generally means the following:",
+				"A":"there are many applicants from which to select.",
+				"B":"there are a limited number of applicants from which to select and likely low quality recruits.",
+				"C":"there are low quality recruits but many applicants from which to select.",
+				"D":"there are a limited number of applicants from which to select.",
+				"E":"there are high quality recruits and many applicants from which to select.",
+				"Ans":"B"
+			},
+			{
+				"Q":"A recent study of 92 real employment interviews found that the interviewers using ________ of structure in the interview process evaluated applicant's ________ than those who used unstructured interviews.",
+				"A":"low levels; less favourably",
+				"B":"mixed levels; more favourably",
+				"C":"high levels; more favourably",
+				"D":"high levels; less favourably",
+				"E":"mixed levels; less favourably",
+				"Ans":"D"
+			},
+			{
+				"Q":"Nonverbal behaviours often account for more than ________ percent of the applicant's rating.",
+				"A":"70",
+				"B":"80",
+				"C":"40",
+				"D":"50",
+				"E":"60",
+				"Ans":"B"
+			},
+			{
+				"Q":"The selection decision-making technique which involves identifying the most valid predictors and weighting them through statistical methods such as multiple regression is called:",
+				"A":"statistical strategy.",
+				"B":"benchmark approach.",
+				"C":"multiple-hurdle strategy.",
+				"D":"multiple-evaluation approach.",
+				"E":"clinical strategy.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Strategic selection is important for the following reasons:",
+				"A":"the employment equity plan.",
+				"B":"the costs involved, impact on performance, and legal implications.",
+				"C":"the budget required and legal implications.",
+				"D":"ethical reasons.",
+				"E":"the time and costs involved.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Suggestions to ensure that questioning is effective include all of the following EXCEPT:",
+				"A":"Listen to the candidate and encourage the full expression of his or her thoughts.",
+				"B":"Ask questions in order.",
+				"C":"Interrogate the applicant.",
+				"D":"Prepare questions in advance.",
+				"E":"Record the candidate's answers briefly but thoroughly.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Micro-assessment focuses on:",
+				"A":"individual performance.",
+				"B":"paper-based questions.",
+				"C":"verbal questions.",
+				"D":"computer-based questions.",
+				"E":"group performance.",
+				"Ans":"A"
+			},
+			{
+				"Q":"To comply with human rights laws an interviewer should not ask questions about any of the following EXCEPT:",
+				"A":"ethnic background.",
+				"B":"marital status.",
+				"C":"educational qualifications.",
+				"D":"childcare arrangements.",
+				"E":"workers' compensation history.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The extent to which a selection tool predicts or significantly correlates with important elements of work behaviour is known as:",
+				"A":"reliability.",
+				"B":"content validity.",
+				"C":"predictive validity.",
+				"D":"differential validity.",
+				"E":"criterion-related validity.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Which of the following is true of preliminary applicant screening?",
+				"A":"It involves eliminating candidates lacking the \"nice to have\" selection criteria.",
+				"B":"It may involve candidate interviews.",
+				"C":"It may involve selection testing.",
+				"D":"The use of technology is becoming increasingly popular at this stage of the selection process.",
+				"E":"Initial applicant screening is generally performed by the line managers.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Research findings claim that the interviewer makes up his/her mind about the candidate:",
+				"A":"immediately after the interview.",
+				"B":"during the last few minutes of the interview.",
+				"C":"about half-way through the interview.",
+				"D":"within the first few minutes of the interview.",
+				"E":"before the interview even begins.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The best strategy for creating appropriate expectations about the job is:",
+				"A":"using simulations.",
+				"B":"using realistic testing.",
+				"C":"providing a realistic job preview.",
+				"D":"providing an in-depth interview.",
+				"E":"giving each applicant a copy of the job description.",
+				"Ans":"C"
+			},
+			{
+				"Q":"When several candidates are interviewed simultaneously by a panel, this is referred to as a ________ interview.",
+				"A":"mass",
+				"B":"sequential",
+				"C":"stress",
+				"D":"patterned",
+				"E":"panel",
+				"Ans":"A"
+			},
+			{
+				"Q":"Which of the following statements about personality testing is true?",
+				"A":"Personality tests are not very useful for hiring purposes.",
+				"B":"The \"Big Five\" personality dimensions include extroversion, emotional stability, agreeableness, conscientiousness, and openness to experience.",
+				"C":"The predictive power of personality tests is generally quite low.",
+				"D":"Attainment of the full potential of personality testing relates primarily to the careful analysis of test results.",
+				"E":"Extroversion is a valid predictor of performance for all occupations.",
+				"Ans":"B"
+			},
+			{
+				"Q":"An example of a behavioural question is:",
+				"A":"What type of work do you want to be doing in five years?",
+				"B":"What are the skill areas you must develop?",
+				"C":"If a co-worker hurt her back, what would you do?",
+				"D":"Tell me about a time when you managed a situation requiring negotiation. ",
+				"E":"None of the above.",
+				"Ans":"D"
+			},
+			{
+				"Q":"All of the following statements pertaining to the final steps in the selection process are true EXCEPT:",
+				"A":"The immediate supervisor generally handles the offer of employment.",
+				"B":"Candidates should be given a reasonable length of time to think over the job offer.",
+				"C":"A written offer of employment should always be extended.",
+				"D":"The initial offer is made by telephone.",
+				"E":"The offer specifies the starting salary.",
+				"Ans":"A"
+			},
+			{
+				"Q":"The screening tool which is most often used by employers in the selection process is:",
+				"A":"working sampling.",
+				"B":"interview and personality test.",
+				"C":"personality test.",
+				"D":"assessment centre.",
+				"E":"interview.",
+				"Ans":"E"
+			},
+			{
+				"Q":"All of the following are common interviewer objectives EXCEPT:",
+				"A":"assessing applicants' qualifications.",
+				"B":"promoting the organization.",
+				"C":"selling their skills.",
+				"D":"providing candidates with information about the job.",
+				"E":"observing interpersonal skills.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Personality tests can measure basic aspects of an applicant's personality, which include all of the 65) following EXCEPT:",
+				"A":"introversion.",
+				"B":"stability.",
+				"C":"dexterity.",
+				"D":"neurotic tendency.",
+				"E":"motivation.",
+				"Ans":"C"
+			},
+			{
+				"Q":"A common interviewing mistake is to make the interview itself mostly a search for:",
+				"A":"negative information.",
+				"B":"the ideal candidate.",
+				"C":"positive information.",
+				"D":"information about medical history.",
+				"E":"personal information.",
+				"Ans":"A"
+			},
+			{
+				"Q":"According to the 30/70 rule:",
+				"A":"interviewers should speak 30 percent of the time and interviewees should speak 70 percent of the time.",
+				"B":"interviewers should speak 70 percent of the time and interviewees should speak 30 percent of the time.",
+				"C":"interviewers should remain silent 30 percent of the time.",
+				"D":"the interview should be structured to begin with 30 minutes of questions from the interviewer followed by 70 minutes of questions from the interviewee.",
+				"E":"interviewees should remain silent 30 percent of the time.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Each of the following is a potential source of unreliability EXCEPT:",
+				"A":"tiredness of the applicant.",
+				"B":"changes within the applicant.",
+				"C":"chance response tendencies.",
+				"D":"the conditions under which the instrument is administered.",
+				"E":"There are no exceptions listed above.",
+				"Ans":"E"
+			},
+			{
+				"Q":"All of the following are reasons that employers may include a medical examination as a step in the selection process EXCEPT:",
+				"A":"to provide documentation to justify not hiring a qualified individual with a physical disability that would prevent him or her from performing the essential job duties.",
+				"B":"to establish a baseline for future insurance or compensation claims.",
+				"C":"to reduce absenteeism and accidents.",
+				"D":"to determine that the applicant qualifies for the physical requirements of the position.",
+				"E":"There are no exceptions listed above.",
+				"Ans":"A"
+			},
+			{
+				"Q":"All of the following statements about selection interviews are true EXCEPT:",
+				"A":"Interviews significantly affect job applicants' views of the job and firm.",
+				"B":"Interview objectives include providing job applicants with information about expected duties of the position.",
+				"C":"The interview is used by virtually all organizations for selection purposes.",
+				"D":"Interviews enable the employer to fill in information gaps.",
+				"E":"Interviews are conducted following testing in a majority of firms.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Toward the end of the interview, time should be allotted to do all of the following EXCEPT:",
+				"A":"Answer any questions the candidate may have.",
+				"B":"Advocate for the firm, if appropriate.",
+				"C":"Thank the interviewee.",
+				"D":"Advocate for the position, if appropriate.",
+				"E":"Politely advise a candidate if it has been determined that he or she will not be given further consideration.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The interview technique that involves questions being asked as they come to mind is known as:",
+				"A":"mixed.",
+				"B":"sequential.",
+				"C":"unstructured.",
+				"D":"directive.",
+				"E":"structured.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Examples of strategies used in a typical assessment centre include all of the following EXCEPT:",
+				"A":"an in-basket exercise.",
+				"B":"on-the-job training.",
+				"C":"a leaderless group discussion.",
+				"D":"individual presentations.",
+				"E":"objective tests.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Each of the following statements about the legal issues involved in obtaining and providing reference information is true EXCEPT:",
+				"A":"As long as reference information is honest, fair, and candid, reference givers are legally protected.",
+				"B":"Many companies are adopting a \"no reference\" policy.",
+				"C":"Even if negative information is given, if it is imparted in a fair and honest manner, the reference giver is legally protected.",
+				"D":"The defence of \"qualified privilege\" protects reference givers, regardless of the circumstances.",
+				"E":"Failure to check references can lead to negligent or wrongful hiring suits.",
+				"Ans":"D"
+			},
+			{
+				"Q":"Selection is a strategic activity in that the ideal individual will possess the:",
+				"A":"required KSAs, with the right experience.",
+				"B":"required KSAs, perform well, and fit the organizational culture.",
+				"C":"required skills, and fit the organizational culture.",
+				"D":"required skills, technical ability and knowledge.",
+				"E":"ability to fit with the strategic direction of the organization.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Research has shown that those rated as more physically attractive than other candidates are also rated as:",
+				"A":"more suitable for employment.",
+				"B":"unsuitable for employment.",
+				"C":"less suitable for employment.",
+				"D":"suitable for temporary employment.",
+				"E":"equally suitable for employment.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Tests used to measure knowledge and/or proficiency acquired through education, training and experience are known as:",
+				"A":"personality tests.",
+				"B":"intelligence tests.",
+				"C":"interest inventories.",
+				"D":"aptitude tests.",
+				"E":"achievement tests.",
+				"Ans":"E"
+			},
+			{
+				"Q":"A selection ratio is:",
+				"A":"the ratio of the total number of applicants to the number of applicants hired.",
+				"B":"the ratio of the total number of applicants hired to the total number of applicants.",
+				"C":"the ratio of the number of interviews successfully completed to the total number of applicants.",
+				"D":"the ratio of the number of offers extended to the total number of applicants.",
+				"E":"the cost per hire.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Initial applicant screening is typically performed by:",
+				"A":"line managers.",
+				"B":"an external recruitment agency.",
+				"C":"voice-response technology.",
+				"D":"computer technology.",
+				"E":"HR professionals.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The interview format that yields comparable answers and in-depth insights is known as:",
+				"A":"patterned.",
+				"B":"mixed.",
+				"C":"situational.",
+				"D":"behavioural.",
+				"E":"stress-producing.",
+				"Ans":"B"
 			}
   		],
 ]
