@@ -2,7 +2,10 @@
 	angular.module("hrm_test",[])
 	.controller("MainController",["$scope","$http",
 		function($scope,$http){
+    $scope.show_c = 0;
+    $scope.show_q = 0;
 		var Q = null
+        $scope.mistake = [];
         $scope.chapters = [{
             "id": 1,
             "selected":true
@@ -32,8 +35,9 @@
 	        		checked.push($scope.chapters[i]["id"])
 	        	}
 	        }
-	        var chpt = checked[Math.floor(Math.random() * checked.length)]
-      		Q = Questions[chpt][Math.floor(Math.random() * Questions[chpt].length )]
+	        chpt = checked[Math.floor(Math.random() * checked.length)]
+          qst = Math.floor(Math.random() * Questions[chpt].length )
+      		Q = Questions[chpt][qst]
       		$scope.Question = Q["Q"]
       		$scope.A = Q["A"]
       		$scope.B = Q["B"]
@@ -48,7 +52,25 @@
   				$scope.feedback = "CORRECT"
   			}else{
   				$scope.feedback = "WRONG"
+          $scope.mistake.push({"chapter":chpt, "question":qst, "text":$scope.Question})
   			}
   		}
+
+      $scope.show_qst = function (c,q){
+        console.log($scope.show_c+ " "+ c)
+        console.log($scope.show_q+ " "+ q)
+        $scope.show_c = c;
+        $scope.show_q = q;
+        console.log($scope.show_c+ " "+ c)
+        console.log($scope.show_q+ " "+ q)
+      }
+      $scope.hide_qst = function (){
+        $scope.show_c = 0;
+        $scope.show_q = 0;
+      }
+      $scope.show = function(c,q){
+        console.log($scope.show_c+ " "+ c)
+        return $scope.show_c === c && $scope.show_q === q;
+      }
 }])
 }())
