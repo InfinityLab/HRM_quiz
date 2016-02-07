@@ -52,7 +52,14 @@
   				$scope.feedback = "CORRECT"
   			}else{
   				$scope.feedback = "WRONG"
-          $scope.mistake.push({"chapter":chpt, "question":qst, "text":$scope.Question})
+          var stored = false;
+          for (var i = 0; i < $scope.mistake.length; i++) {
+            if($scope.mistake[i]["chapter"] == chpt && $scope.mistake[i]["question"] == qst){
+              stored = true;
+            }
+          };
+
+          if(!stored) $scope.mistake.push({"chapter":chpt, "question":qst, "text":$scope.Question})
   			}
   		}
 
@@ -71,6 +78,20 @@
       $scope.show = function(c,q){
         console.log($scope.show_c+ " "+ c)
         return $scope.show_c === c && $scope.show_q === q;
+      }
+
+      $scope.ToQst = function(c,q){
+          chpt = c;
+          qst = q;
+          Q = Questions[c][q]
+          $scope.Question = Q["Q"]
+          $scope.A = Q["A"]
+          $scope.B = Q["B"]
+          $scope.C = Q["C"]
+          $scope.D = Q["D"]
+          $scope.E = Q["E"]
+          $scope.correct = Q["Ans"]
+          $scope.Answer = null;
       }
 }])
 }())

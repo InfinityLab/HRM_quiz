@@ -35,8 +35,8 @@
     <h4>Mistake List</h4>
      <table>
       <tr ng-repeat="question in mistake | orderBy : 'chapter'" >
-        <td ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"><div class="text" ng-show="show(question.chapter,question.question)"> {{question.text}}</div> Chapter: {{ question.chapter }}</td>
-        <td ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Question: {{ question.question }}</td>
+        <td ng-click="ToQst(question.chapter,question.question)" ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Chapter: {{ question.chapter }}<div class="text" ng-show="show(question.chapter,question.question)"> {{question.text}}</div></td>
+        <td ng-click="ToQst(question.chapter,question.question)" ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Question: {{ question.question }}</td>
         
       </tr>
      </table>
