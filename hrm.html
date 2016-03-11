@@ -2,76 +2,60 @@
 <html ng-app="hrm_test">
 <head>
 	<title>HRM</title>
+  <link type="text/css" rel="stylesheet" href="./hrm.css">
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
   <script type="text/javascript" src="./questions.js"></script>
 	<script type="text/javascript" src="./main.js"></script>
-  <style type="text/css">
-      .text {
-        position:absolute;
-        border:2px solid #000;
-        background-color: rgba(256,256,256,0.9);
-        width:50%;
-    }
-    #mistake-div {
-        position: fixed;
-        top: 1em;
-        right: 1em;
-        width: 30%;
-    }
-    table, th , td  {
-      border-collapse: collapse;
-      padding: 5px;
-    }
-    table tr:nth-child(odd) {
-      background-color: #f1f1f1;
-    }
-    table tr:nth-child(even) {
-      background-color: #ffffff;
-    }
-  </style>
 </head>
+
 <body ng-controller="MainController">
-    <div id="mistake-div">
-    <h4>Mistake List</h4>
-     <table>
-      <tr ng-repeat="question in mistake | orderBy : 'chapter'" >
-        <td ng-click="ToQst(question.chapter,question.question)" ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Chapter: {{ question.chapter }}<div class="text" ng-show="show(question.chapter,question.question)"> {{question.text}}</div></td>
-        <td ng-click="ToQst(question.chapter,question.question)" ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Question: {{ question.question }}</td>
-        
-      </tr>
-     </table>
-    </div>
+  <div id="title">
+    <h1><span>HRM</span> Testbank</h1>
+  </div>
+  <div id="other">
+  <div id="catalog">
+    <h1><span>C</span>atalog</h1>
     <div ng-repeat="chapter in chapters">
         <input type="checkbox" ng-model="chapter.selected"  ng-true-value="true" ng-false-value="false"/>
-        <label>Chapter {{chapter.id}}</label>
+        <label>Chapter <span>{{chapter.id}}</span></label>
     </div>
-    <button ng-show="!Question" ng-click="NextQuestion()" >
-      Next Question
-    </button>
+  </div>
+
+  <div id="content">
+    <div id="contenth1">
+      <h1><span>Q</span>uestion</h1>
+    </div>
+
+    <div id="button">
+      <button ng-show="!Question" ng-click="NextQuestion()">
+        Next Question
+      </button>
+    </div>
+
     <br>
-    <div ng-show="Question" style="width:70%">
+    <div ng-show="Question" style="width:100%" id="question">
       {{Question}}
       <br>
         <form name="Choice" >
           <label>
             <input type="radio" ng-disabled="Answer" ng-change="ans('A')" ng-model="Answer" value="A">
-            A {{A}}
+            <span>A</span> {{A}}
           </label><br/>
           <label>
             <input type="radio" ng-disabled="Answer" ng-change="ans('B')" ng-model="Answer" value="B">
-            B {{B}}
+            <span>B</span> {{B}}
           </label><br/>
           <label>
             <input type="radio" ng-disabled="Answer" ng-change="ans('C')" ng-model="Answer" value="C">
-            C {{C}}
+            <span>C</span> {{C}}
           </label><br/>
           <label>
             <input type="radio" ng-disabled="Answer" ng-change="ans('D')" ng-model="Answer" value="D">
-            D {{D}}
+            <span>D</span> {{D}}
           </label><br/>
           <label>
             <input type="radio" ng-disabled="Answer" ng-change="ans('E')" ng-model="Answer" value="E">
-            E {{E}}
+            <span>E</span> {{E}}
           </label>
         </form>
     </div>
@@ -79,5 +63,22 @@
      <button ng-click="NextQuestion()" >
       Next Question
     </button>
+  </div>
+
+    <div id="mistake-div">
+      <div id="mish1">
+        <h1><span>M</span>istList</h1>
+      </div>
+      <div id="mistable">
+     <table>
+      <tr ng-repeat="question in mistake | orderBy : 'chapter'" >
+        <td ng-click="ToQst(question.chapter,question.question)" ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Chapter: <span>{{ question.chapter }}</span><div class="text" ng-show="show(question.chapter,question.question)"> <span>{{question.text}}</span></div></td>
+        <td ng-click="ToQst(question.chapter,question.question)" ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Question: <span>{{ question.question }}</span></td>
+        
+      </tr>
+     </table>
+   </div>
+  </div>
+</div>
 </body>
 </html>
